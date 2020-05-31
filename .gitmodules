@@ -1,0 +1,3 @@
+[submodule "qmltermwidget"]
+	path = qmltermwidget
+	url = git@github.com:markqvist/qmltermwidget.git
